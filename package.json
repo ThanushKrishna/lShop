@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  },
+  "name": "lshop",
+  "description": "Liquor Door Delivery Service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanushKrishna/lShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThanushKrishna/lShop/issues"
+  },
+  "homepage": "https://github.com/ThanushKrishna/lShop#readme"
+}
