@@ -34,6 +34,7 @@ exports.sendEmail = async (userEmail) => {
             </div>
           </div>`  
         })
+        return info
     }
     catch(err) {
         console.log(err);
