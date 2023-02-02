@@ -6,7 +6,8 @@
     "mongoose": "^6.8.4",
     "nodemailer": "^6.9.0",
     "nodemon": "^2.0.20",
-    "otp-generator": "^4.0.0"
+    "otp-generator": "^4.0.0",
+    "typescript": "^4.9.4"
   },
   "name": "lshop",
   "description": "Liquor Door Delivery Service",
